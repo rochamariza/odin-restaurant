@@ -26,7 +26,16 @@ export default {
       },
       {
         test: /\.html$/i,
-        use: ["html-loader"],
+        use: [{
+          loader: "html-loader",
+          options: {
+            sources: false,
+          }
+        }],
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: "asset/resource",
       },
     ],
   },
