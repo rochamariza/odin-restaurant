@@ -116,7 +116,7 @@ eval("{\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleEle
   \***************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "86458728b9c04ee94df5.jpeg";
+module.exports = __webpack_require__.p + "imgs/coffe86458728b9c04ee94df5.jpeg";
 
 /***/ },
 
@@ -126,7 +126,7 @@ module.exports = __webpack_require__.p + "86458728b9c04ee94df5.jpeg";
   \****************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "a7ef2f3a44faf34bb38d.jpg";
+module.exports = __webpack_require__.p + "imgs/coxinhaa7ef2f3a44faf34bb38d.jpg";
 
 /***/ },
 
@@ -136,7 +136,7 @@ module.exports = __webpack_require__.p + "a7ef2f3a44faf34bb38d.jpg";
   \**************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "d248629ddddca7736dea.jpg";
+module.exports = __webpack_require__.p + "imgs/friesd248629ddddca7736dea.jpg";
 
 /***/ },
 
@@ -146,7 +146,7 @@ module.exports = __webpack_require__.p + "d248629ddddca7736dea.jpg";
   \**************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "27903fc36df0ba6855e6.png";
+module.exports = __webpack_require__.p + "imgs/homer27903fc36df0ba6855e6.png";
 
 /***/ },
 
@@ -156,7 +156,7 @@ module.exports = __webpack_require__.p + "27903fc36df0ba6855e6.png";
   \**************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "733a3038b141690e7926.jpg";
+module.exports = __webpack_require__.p + "imgs/juice733a3038b141690e7926.jpg";
 
 /***/ },
 
@@ -166,7 +166,7 @@ module.exports = __webpack_require__.p + "733a3038b141690e7926.jpg";
   \********************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "86d71d17ccc5c88e0895.jpg";
+module.exports = __webpack_require__.p + "imgs/pesto-pasta86d71d17ccc5c88e0895.jpg";
 
 /***/ },
 
@@ -176,7 +176,7 @@ module.exports = __webpack_require__.p + "86d71d17ccc5c88e0895.jpg";
   \****************************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "ae0c598a09c587705b2a.jpg";
+module.exports = __webpack_require__.p + "imgs/quebradito-potatitoae0c598a09c587705b2a.jpg";
 
 /***/ },
 
@@ -186,7 +186,7 @@ module.exports = __webpack_require__.p + "ae0c598a09c587705b2a.jpg";
   \******************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "bab420f24a7975046541.jpg";
+module.exports = __webpack_require__.p + "imgs/recifensebab420f24a7975046541.jpg";
 
 /***/ },
 
@@ -196,7 +196,7 @@ module.exports = __webpack_require__.p + "bab420f24a7975046541.jpg";
   \*************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "b1bb389921edafe45b97.jpg";
+module.exports = __webpack_require__.p + "imgs/sodab1bb389921edafe45b97.jpg";
 
 /***/ },
 
@@ -206,7 +206,7 @@ module.exports = __webpack_require__.p + "b1bb389921edafe45b97.jpg";
   \*******************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "61d42fee471f452b1c05.jpg";
+module.exports = __webpack_require__.p + "imgs/strogonoff61d42fee471f452b1c05.jpg";
 
 /***/ },
 
@@ -216,7 +216,7 @@ module.exports = __webpack_require__.p + "61d42fee471f452b1c05.jpg";
   \************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "748d1996d92e5353079c.jpg";
+module.exports = __webpack_require__.p + "imgs/tea748d1996d92e5353079c.jpg";
 
 /***/ },
 
@@ -226,7 +226,7 @@ module.exports = __webpack_require__.p + "748d1996d92e5353079c.jpg";
   \**************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "dd63f4d93a909f155b0c.jpg";
+module.exports = __webpack_require__.p + "imgs/waterdd63f4d93a909f155b0c.jpg";
 
 /***/ },
 
